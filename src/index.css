@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
+@import url("http://fonts.cdnfonts.com/css/galano-grotesque-alt");
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+:root{
+  --main-bg-color: #003147;
+  --primary-black-color: hsl(260, 11%, 11%);
+  --secondary-black-color: #4d4d4d;
+  --orange-color: #ee741f;
+  --red-color: #ee1f45;
+  --white-color: #fff;
+  --back-color: #000;
+  --light-gray-color: #F2F2F2
+
+}
+
+
+ 
+
